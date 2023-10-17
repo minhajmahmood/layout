@@ -1,0 +1,46 @@
+.header{
+    height: 100px;
+    /* min-height: auto; */
+    /* max-height: none; */
+    background-color: brown;
+}
+
+.container{
+    overflow: hidden;
+}
+
+.blog{
+    width: 70%;
+    height: 200px;
+    float: left;
+    background-color: rgb(113, 133, 126);
+}
+
+.blog {}
+
+.contact{
+    width: 30%;
+    height: 200px;
+    float: right;
+    background-color: rgb(109, 77, 36);
+}
+
+.box{
+    width: 33.33%;
+    height: 150px;
+    float: left;
+}
+.red{
+    background-color: red;
+}
+.teal{
+    background-color: lavender;
+}
+.aqua{
+    background-color: gold;
+}
+
+.footer{
+    height: 100px;
+    background-color: rgb(27, 17, 17);
+}
